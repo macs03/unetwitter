@@ -1,0 +1,107 @@
+body
+{
+	margin: auto;
+	width: 768px;
+	height: auto;
+	background: url(fondo.jpg) repeat-y;
+}
+
+div.container
+{
+	width: 650px;
+	height: auto;
+	background: #fff;
+}
+div.texto {
+	margin-top:10px;
+	margin-bottom:5px;
+	height: 20px;
+	width: 170px;
+	float: left;
+	color: #000000;
+	font-style: italic;
+	 font-size: 20px;
+
+}
+
+div.login{
+background-color: #00CCCC;
+	float:left;
+	width:170px;
+	height:200px;
+}
+div.cabecera{
+	width:768px;
+	height:100px;
+	background: url(pajaro.png) no-repeat;
+
+}
+div.menu{
+	width:768px;
+	height: 30px;
+	background-color: #00CCFF;
+}
+div.salir{
+	float:right;
+	margin-top:5px;
+	margin-right:5px;
+}
+div.titulotwitter{
+	float:left;
+	width: 520px;
+	height: 200px;
+	background-color:#DDDDDD;
+
+}
+div.textarea{
+	float:left;
+	margin-top:20px;
+	margin-left:20px;
+	width:520px;
+
+}
+div.tweets{
+	float:left;
+	width:520px;
+	height:80px;
+	background-color:#FFFFFF;
+}
+div.tweets img{
+float:left;
+		margin-top:5px;
+	margin-right:5px;
+}
+div.registro{
+	float:left;
+	width:768px;
+	height:360px;
+	background-color:#FFFFFF;
+}
+div.registro div.texto ,div.registro div.campo{
+	width:768px;
+	margin-left:30px;
+	margin-top:15px;
+	
+}
+
+div.text{
+	float:left;
+	width:520px;;
+	height:auto;
+}
+
+div.seguidores{
+	float:left;
+	width:230px;
+	height:auto;
+	background-color:#CCCCCC;
+}
+
+div.usuario{
+	float:left;
+	width:230px;
+	margin-left:20px;
+	margin-top:10px;
+	height:auto;
+	background-color:#CCCCCC;
+}
